@@ -1,0 +1,1 @@
+/home/student/IdeaProjects/AssignmentIN/build/classes/kotlin/main/MainKt.class:/home/student/IdeaProjects/AssignmentIN/build/classes/kotlin/main/Vehicles$Bus.class:/home/student/IdeaProjects/AssignmentIN/build/classes/kotlin/main/Vehicles$Car.class:/home/student/IdeaProjects/AssignmentIN/build/classes/kotlin/main/Vehicles.class
